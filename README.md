@@ -5,7 +5,7 @@ Learning how to intergrate bootstrap into my web design process.
 This is my first template and read me file for web design projects.  
 
 
-### This is an unordered list
+### File Information
 * Date: 4-11-22
 * Author: Taylor Hines 
 
