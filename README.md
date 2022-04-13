@@ -1,24 +1,15 @@
 # bootstrap-boilerplate
 Learning how to intergrate bootstrap into my web design process.
-## This is a level two (H2) heading) 
+## This will be a template for Bootstrap on my future projects. 
 
-This is a paragraph. It is made up of sentences. 
-
-### This is an ordered list 
-1. Step 1 
-2. step 2
-3. step 3
+This is my first template and read me file for web design projects.  
 
 
 ### This is an unordered list
-* Apples
-* Oranges 
-* Bread
+* Date: 4-11-22
+* Author: Taylor Hines 
 
-> This is a blockquote.
 
----
 
-[Markdown Cheatsheet] (https://www.google.com/)
 
 
